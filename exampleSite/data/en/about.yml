@@ -3,14 +3,14 @@ about:
   enable : true
   title : We Are
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : Focused
-    content : Thanks to active listening, we will quickly understand the essence of your needs in order to meet them with simple and effective solutions.
+  - icon : ti-control-shuffle # themify icon pack : https://themify.me/themify-icons
+    title : Agile
+    content : Thanks to our enlightened practice of Agile methodologies and to our usage of flexible technologies, we will deliver value every iterations of the project.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : Competent
-    content : Our team is made up of seasoned and experienced professionals who are constantly up to date in the various technologies relating to their field.
+  - icon : ti-heart # themify icon pack : https://themify.me/themify-icons
+    title : Passionate
+    content : Our team is made up of professionals who love their craft and keep their skills and knowledge up-to-date with the latest trends and standards of the industry.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-light-bulb # themify icon pack : https://themify.me/themify-icons
     title : Brilliant
-    content: Where others will go to great lengths and require more of their clients' resources to meet their deliverables, we have a unique and effective approach only possible thanks to our brilliant team.
+    content: Where others will go to great lengths and require more resources to meet their deliverables, our creative approaches will amaze you.

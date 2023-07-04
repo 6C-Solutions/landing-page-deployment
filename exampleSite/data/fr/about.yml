@@ -3,14 +3,14 @@ about:
   enable : true
   title : Nous sommes
   about_item :
-  - icon : ti-volume # themify icon pack : https://themify.me/themify-icons
-    title : Attentifs
-    content : Grâce à une écoute active, nous saurons très vite comprendre l'essence de vos besoins afin de les rencontrer avec des solutions simples et efficaces.
+  - icon : ti-control-shuffle # themify icon pack : https://themify.me/themify-icons
+    title : Agiles
+    content :  Grâce à notre pratique éclairée des méthodologies Agile et à l'usage de technologies flexibles, nous vous livrerons de la valeur chaque itérations.
 
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : Compétents
-    content : Notre équipe est constituée de professionels chevronés et expérimentés qui sont constamment à jour dans les diverses technologies relatives à leur domaine.
+  - icon : ti-heart # themify icon pack : https://themify.me/themify-icons
+    title : Passionnés
+    content : Nous aimons nos professions et gardons nos connaissances et nos compétences à jour selon l'évolution des technologies et des standards de l'industrie.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-light-bulb # themify icon pack : https://themify.me/themify-icons
     title : Géniaux
-    content : Là où d'autres se donneront beaucoup de mal et nécessiterons plus des ressources de leurs clients afin de rencontrer leurs objectifs, nous nous avons une approche unique et efficace possible uniquement que grâce à notre brillante équipe.
+    content : Là où d'autres se donneront beaucoup de mal et nécessiterons plus des ressources, nos approches adaptées et créatives vous épaterons.
