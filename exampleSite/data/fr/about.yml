@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : Nous sommes
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-volume # themify icon pack : https://themify.me/themify-icons
+    title : Attentifs
+    content : Grâce à une écoute active, nous saurons très vite comprendre l'essence de vos besoins afin de les rencontrer avec des solutions simples et efficaces.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : Compétents
+    content : Notre équipe est constituée de professionels chevronés et expérimentés qui sont constamment à jour dans les diverses technologies relatives à leur domaine.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Géniaux
+    content : Là où d'autres se donneront beaucoup de mal et nécessiterons plus des ressources de leurs clients afin de rencontrer leurs objectifs, nous nous avons une approche unique et efficace possible uniquement que grâce à notre brillante équipe.

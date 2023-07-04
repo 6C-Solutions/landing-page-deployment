@@ -145,8 +145,8 @@ weight = 8
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "20 years of experience in I.T. at your service"
+author = "6C Solutions"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -195,21 +195,20 @@ link = "#"
 icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
+################################ France Language ########################
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 1
+home = "Accueil"
+copyright = "Copyright &copy; 2023 Designed by [Themefisher](https://themefisher.com) & Developed by 6C Solutions &[Gethugothemes](https://gethugothemes.com)"
 
 ################################ English Language ########################
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
-home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
 weight = 2
-home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+home = "Home"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by 6C Solutions & [Gethugothemes](https://gethugothemes.com)"

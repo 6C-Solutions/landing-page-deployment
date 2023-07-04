@@ -4,8 +4,8 @@ banner:
   bg_image_webp : "images/backgrounds/software-development.webp"
   bg_image : "images/backgrounds/software-development.jpeg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "20 years of experience in IT at your service"
-  content : "Whether for the realization of new IT solutions that meet your needs or for the upgrade of existing applications and services, our team of experienced and creative professionals will exceed your expectations."
+  title : "20 years of experience in I.T. at your service"
+  content : "For the realization of new IT solutions that meet your needs or for the upgrade of existing applications and services, our team of experienced and creative professionals will exceed your expectations."
   button:
     enable : true
     label : "Services"
