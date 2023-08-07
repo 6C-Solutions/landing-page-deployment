@@ -1,34 +1,23 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  name : Nos Services
   service_item :
-    # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name: Sites Web
+      icon: ti-world # themify icon pack : https://themify.me/themify-icons
+      content: Vous désirez avoir votre propre site Internet et vous avez une bonne idée du contenu mais ne savez pas comment vous y prendre pour le réaliser? Pas de soucis, notre équipe est là! Nous vous accompagnerons de l’idéation, au prototypage, en passant par la conception et jusqu’à la réalisation.
+
+    # feature item loop
+    - name: Application Mobile
+      icon: ti-mobile # themify icon pack : https://themify.me/themify-icons
+      content: Vous voulez offrir la meilleure expérience possible aux utilisateurs de votre site? Donnez leur accès à une application mobile fluide et adaptative aux différentes tailles d’écran disponible sur les plateformes Apple et Android.
+
+      # feature item loop
+    - name: Base de données
+      icon: ti-server # themify icon pack : https://themify.me/themify-icons
+      content: Vous avez une base de données qui aurait besoin d’une mise à niveau car vos solutions I.T. existantes connaissent un succès inattendu ou parceque des modifications ont été apportées à vos régles d'affaire? Nous sommes là pour assurer la migration de toutes vos données sans en perdre le moindre bit.
+
+      # feature item loop
+    - name: Conception Graphique
+      icon: ti-palette # themify icon pack : https://themify.me/themify-icons
+      content: Désirez-vous créer l’identité numérique ou de votre marque ou de votre entreprise ou plûtot simplement la rafraîchir? Aucun soucis, chez 6C Solutions nos designers graphiques seront à l’écoute pour cerner l’image que vous désirez projeter à vos clients et parviendront à lui donner vie sous toutes les formes requises.
