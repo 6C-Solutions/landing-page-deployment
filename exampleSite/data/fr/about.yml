@@ -1,7 +1,7 @@
 ############################# About ###################################
 about:
   enable : true
-  title : Nous sommes
+  title : Nous sômmes
   about_item :
   - icon : ti-control-shuffle # themify icon pack : https://themify.me/themify-icons
     title : Agiles

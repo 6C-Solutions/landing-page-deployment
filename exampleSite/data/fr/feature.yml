@@ -1,26 +1,26 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
+  image : images/about/developer-working.jpeg
+  image_webp : images/about/developer-working.webp
+  title : Nous répondrons à tous vos besoins I.T.
+  content : "Que vous désiriez bâtir la facade numérique de votre entreprise ou encore mettre à jour vos solutions existantes, chez 6C Solutions nous pourrons mettre notre savoir faire à votre service."
+  feature_item :
       # feature item loop
-    - title : SEO Optimized
+    - title : Sites Web
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Vous désirez avoir votre propre site Internet et vous avez une bonne idée d’un peu de tout le contenu mais ne savez pas comment vous y prendre pour le réaliser? Pas de soucis, notre équipe est là! Nous vous accompagnerons de l’idéation, au prototypage, en passant par la conception et jusqu’à la réalisation.
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
+    - title : Application Mobile
+      icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      content : Vous voulez offrir la meilleure expérience possible aux utilisateurs de votre site? Donnez leur accès à une application mobile fluide et adaptative aux différentes tailles d’écran disponible sur les plateformes Apple et Android.
+
+      # feature item loop
+    - title : Base de données
+      icon : ti-server # themify icon pack : https://themify.me/themify-icons
+      content : Vous avez une base de données qui aurait besoin d’une mise à niveau car vos solutions I.T. existantes connaissent un succès inattendu ou car des modifications ont été apportées à vos régles d'affaire? Nous sommes là pour assurer la migration de toutes vos données sans en perdre le moindre bit.
+
       # feature item loop
     - title : Easy Customization
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
