@@ -22,5 +22,14 @@ feature:
 
     # feature item loop
     - title: Email, SMS et Chat
-      icon: ti-comment # themify icon pack : https://themify.me/themify-icons
-      content: Communiquez avec vos clients à l’aide de l'Intelligence Artificiel et d’agent de conversation par WhatsApp, Messenger, etc que ce soit pour répondre à leurs questions, annoncer des promotions ou simplement pour les tenir informés.
+      icon: ti-comments # themify icon pack : https://themify.me/themify-icons
+      content: Communiquez avec vos clients à l’aide de l’Intelligence Artificiel et d’agent de conversation par WhatsApp, Messenger, etc que ce soit pour répondre à leurs questions, annoncer des promotions ou simplement pour les tenir informés.
+
+        # feature item loop
+    - title: Performance
+      icon: ti-dashboard # themify icon pack : https://themify.me/themify-icons
+      content: Épatez vos utilisateurs avec des solutions I.T. performantes qui s’adaptent à leur contexte d’utilisation afin d’offrir une expèrience optimale en tout temps.
+
+    - title: Beauté
+      icon: ti-eye # themify icon pack : https://themify.me/themify-icons
+      content: Mettez en plein la vue en présentant un site web ou une application mobile d’une beauté encore inégalée, vous distançant considérablement de la compétition.

@@ -10,14 +10,24 @@ service:
     # feature item loop
     - name: Application Mobile
       icon: ti-mobile # themify icon pack : https://themify.me/themify-icons
-      content: Vous voulez offrir la meilleure expérience possible aux utilisateurs de votre site? Donnez leur accès à une application mobile fluide et adaptative aux différentes tailles d’écran disponible sur les plateformes Apple et Android.
+      content: Vous voulez offrir la meilleure expérience possible aux utilisateurs de votre site ou encore à votre clientèle? Donnez leur accès à une application mobile fluide et adaptative aux différentes tailles d’écran et générations de portables sur les plateformes Apple et Android.
 
-      # feature item loop
-    - name: Base de données
-      icon: ti-server # themify icon pack : https://themify.me/themify-icons
-      content: Vous avez une base de données qui aurait besoin d’une mise à niveau car vos solutions I.T. existantes connaissent un succès inattendu ou parceque des modifications ont été apportées à vos régles d'affaire? Nous sommes là pour assurer la migration de toutes vos données sans en perdre le moindre bit.
+    # feature item loop
+    - name: Logiciel de Bureau
+      icon: ti-desktop # themify icon pack : https://themify.me/themify-icons
+      content: Vos processus internes bénéficieraient d’un logiciel sur mesure qui faciliterait leur mise en vigueur, leur suivi et leur audit? Nous pouvous vous aider en vous accompagnant pour la définition et l’implémentation des requis dans une application de bureau sur mesure, simple et élgante.
 
-      # feature item loop
+    # feature item loop
     - name: Conception Graphique
       icon: ti-palette # themify icon pack : https://themify.me/themify-icons
       content: Désirez-vous créer l’identité numérique ou de votre marque ou de votre entreprise ou plûtot simplement la rafraîchir? Aucun soucis, chez 6C Solutions nos designers graphiques seront à l’écoute pour cerner l’image que vous désirez projeter à vos clients et parviendront à lui donner vie sous toutes les formes requises.
+
+      # feature item loop
+    - name: Optimization
+      icon: ti-bolt # themify icon pack : https://themify.me/themify-icons
+      content: Avez-vous déjà l’application mobile, le site Internet ou le logiciel qu’il vous faut mais le succès croissant de votre entreprise en fait un sujet d’irritation pour vous, vos employés ou vos clients? Encore une fois là 6C Solutions peut vous assister en opérant de manière non intrusive des optimizations logicielles et matérielles.
+
+    # feature item loop
+    - name: Intelligence Artificielle
+      icon: ti-infinite # themify icon pack : https://themify.me/themify-icons
+      content: Vous en avez entendu parler et êtes intrigué ou peut-être l’utilisez vous déjà. Que ce soit l’intelligence artificielle développée par les géants du numérique comme Microsoft, Google ou Facebook ou celle que vous pourriez fabriquer vous même grâce aux données accumulées au fil de vos années d’opération, nos experts peuvent vous aider.

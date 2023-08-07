@@ -3,8 +3,8 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Des solutions I.T fonctionnelles de toute beauté"
-  content : "L'expertise des solutions des technologies de l’informaton au service de votre maîtrise de votre domaine d’affaire."
+  title : "L’expertise des solutions des technologies de l’informaton au service de votre maîtrise de votre domaine d’affaire."
+  content : ""
   button:
     enable : true
     label : "Démarrer votre projet avec nous"
