@@ -1,76 +1,36 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Projets Récents
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : Gestionnaire de Nuages de Points
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
-      
+      categories : ["web"]
+      content : Télécharger, téléverser, partager, visualer et traiter de volumineux nuages de points.
+      link : "https://cloud.lp360.com"
+
     # portfolio item loop
-    - name : Sound system
+    - name : Vente en Ligne de Licenses de Logiciels
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
-      
+      categories : ["web"]
+      content : Achat de souscriptions annuelles à de dispendieux logiciels.
+      link : "https://store.lp360.com"
+
     # portfolio item loop
-    - name : Clock Product
+    - name : ChatBot pour la Crypto
       image : images/portfolio/portfolio-3.jpg
       image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
+      categories : ["cryptocurrency", "chatbot"]
+      content : Un agent conversationnel intégré à Télégram permettant à des particuliers d’acheter et vendre des RBTC.
+      link : "https://t.me/rskp2pbot_testnet"
+
     # portfolio item loop
-    - name : Bottol Label
+    - name : Drone Control Station
       image : images/portfolio/portfolio-4.jpg
       image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      categories : ["mobile"]
+      content : Android application for planning and flying remotely piloted aircraft.
+      link : "https://play.google.com/store/apps/details?id=com.microdrones.cockpit&pli=1"
