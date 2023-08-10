@@ -3,6 +3,7 @@ portfolio:
   enable : true
   title : Projets Récents
   portfolio_item :
+
     # portfolio item loop
     - name : Gestionnaire de Nuages de Points
       image : images/portfolio/portfolio-1.jpg
@@ -32,5 +33,21 @@ portfolio:
       image : images/portfolio/portfolio-4.jpg
       image_webp : images/portfolio/portfolio-4.webp
       categories : ["mobile"]
-      content : Android application for planning and flying remotely piloted aircraft.
+      content : Application Android pour la plannification de mission et le pilotage de drone.
       link : "https://play.google.com/store/apps/details?id=com.microdrones.cockpit&pli=1"
+
+    # portfolio item loop
+    - name: Security & Automation
+      image: images/portfolio/portfolio-5.jpg
+      image_webp: images/portfolio/portfolio-5.webp
+      categories: [ "cybersecurity", "automatisation" ]
+      content: Audit de la sécurité des applications mobile et web pour la consultation en ligne.
+      link: "https://dokpam.ca"
+
+    # portfolio item loop
+    - name: Design & Web Site
+      image: images/portfolio/portfolio-6.jpg
+      image_webp: images/portfolio/portfolio-6.webp
+      categories: [ "web", "design" ]
+      content: Conception graphique et réalisation du site web transactionel de Upkam.
+      link: "https://upkam.com"
