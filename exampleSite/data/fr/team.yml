@@ -13,8 +13,8 @@ team:
       social:
         - icon: ti-twitter-alt
           link: https://twitter.com/hamady6c
-        - icon: ti-linkedin
-          link: https://www.linkedin.com/in/hamadycisse
+#        - icon: ti-linkedin
+#          link: https://www.linkedin.com/in/hamadycisse
     - name: Sylvain Millot Cordina
 #      image_webp: images/team/team-2.webp
       image: images/team/team-2.jpg
@@ -22,25 +22,25 @@ team:
       content: Fort d’une expérience de 20 ans en France et à Montréal, QC, Canada,
         travaillant avec et pour diverses entreprises telles que Léger, Bell,
         WSP Global, CAE Inc. ou Loto Québec, entre autres.
-      social:
-        - icon: ti-linkedin
-          link: https://www.linkedin.com/in/sylvain-millot-750b2b19/
+#      social:
+#        - icon: ti-linkedin
+#          link: https://www.linkedin.com/in/sylvain-millot-750b2b19/
     - name: Moché Jr. Caryle Medeho
 #      image_webp: images/team/team-3.webp
       image: images/team/team-3.jpg
       designation: Chef Équipe de Programmation
       content: .
-      social:
-        - icon: ti-linkedin
-          link: https://www.linkedin.com/in/moch%C3%A9-junior-caryle-medeho-3a91271b3/
+#      social:
+#        - icon: ti-linkedin
+#          link: https://www.linkedin.com/in/moch%C3%A9-junior-caryle-medeho-3a91271b3/
     - name: El Hadj H. Traoré
 #      image_webp: images/team/team-4.webp
       image: images/team/team-4.jpg
       designation: Gestionnaire en Chef
       content: ""
-      social:
-        - icon: ti-linkedin
-          link: https://www.linkedin.com/in/hamady-traor%C3%A9-0b2a8670/
+#      social:
+#        - icon: ti-linkedin
+#          link: https://www.linkedin.com/in/hamady-traor%C3%A9-0b2a8670/
     - name: Joyce Gloriam
 #      image_webp: images/team/team-5.webp
       image: images/team/team-5.jpg
