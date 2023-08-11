@@ -1,5 +1,5 @@
 - id: blogTitle
-  translation: Dernier message
+  translation: Notre Blog
 - id: readMore
   translation: Lire la suite
 - id: viewAllPost
@@ -20,11 +20,11 @@
   translation: Portfolio
 - id: team
   translation: Équipe
-- id: pricing
-  translation: Tarification
-- id: blog
-  translation: Blog
+#- id: pricing
+#  translation: Tarification
+#- id: blog
+#  translation: Blog
 - id: contact
   translation: Contact
-- id: themefisher
-  translation: Themefisher
+#- id: themefisher
+#  translation: Themefisher

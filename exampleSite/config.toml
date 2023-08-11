@@ -102,43 +102,48 @@ weight = 8
 
 ################### French Navigation ########################
 [[Languages.fr.menu.main]]
-name = "sur"
+name = "À propos"
 url = "#about"
 weight = 1
 
 [[Languages.fr.menu.main]]
-name = "un service"
-url = "#services"
+name = "Particularités"
+url = "#feature"
 weight = 2
 
 [[Languages.fr.menu.main]]
-name = "portefeuille"
-url = "#portfolio"
+name = "Services"
+url = "#services"
 weight = 3
 
 [[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
+name = "Expertise"
+url = "#skills"
 weight = 4
 
 [[Languages.fr.menu.main]]
-name = "tarification"
-url = "#pricing"
+name = "Portfolio"
+url = "#portfolio"
 weight = 5
 
 [[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
+name = "L’Équipe"
+url = "#team"
 weight = 6
 
+#[[Languages.fr.menu.main]]
+#name = "tarification"
+#url = "#pricing"
+#weight = 5
+
 [[Languages.fr.menu.main]]
-name = "contact"
-url = "#contact"
+name = "Blog"
+url = "#blog"
 weight = 7
 
 [[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
+name = "Contact"
+url = "#contact"
 weight = 8
 
 ############################# Default Parameters ##########################

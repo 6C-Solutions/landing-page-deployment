@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable : true
-  name : Nos Services
+  title : Nos Services
   service_item :
     - name: Sites Web
       icon: ti-world # themify icon pack : https://themify.me/themify-icons
