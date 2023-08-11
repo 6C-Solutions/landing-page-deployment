@@ -15,16 +15,6 @@ team:
           link: https://twitter.com/hamady6c
 #        - icon: ti-linkedin
 #          link: https://www.linkedin.com/in/hamadycisse
-    - name: Sylvain Millot Cordina
-#      image_webp: images/team/team-2.webp
-      image: images/team/team-2.jpg
-      designation: Directeur Conception Graphique
-      content: Fort d’une expérience de 20 ans en France et à Montréal, QC, Canada,
-        travaillant avec et pour diverses entreprises telles que Léger, Bell,
-        WSP Global, CAE Inc. ou Loto Québec, entre autres.
-#      social:
-#        - icon: ti-linkedin
-#          link: https://www.linkedin.com/in/sylvain-millot-750b2b19/
     - name: Moché Jr. Caryle Medeho
 #      image_webp: images/team/team-3.webp
       image: images/team/team-3.jpg
