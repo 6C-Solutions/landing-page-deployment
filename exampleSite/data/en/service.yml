@@ -3,32 +3,31 @@ service:
   enable : true
   title : Our Services
   service_item :
-    # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name: Web App
+      icon: ti-world # themify icon pack : https://themify.me/themify-icons
+      content: You want to have your own website and you have a good idea of the content but don't know how to go about making it happen? No worries, our team is here! We will accompany you from the ideation, to the prototyping, through the design and until its complete realization.
+
+    # feature item loop
+    - name: Mobile App
+      icon: ti-mobile # themify icon pack : https://themify.me/themify-icons
+      content: Do you want to offer the best possible experience to the users of your site or to your customers, or simply want to have a presence App Stores? Give them access to a fluid mobile application that adapts to different screen sizes and generations of cellphones on Apple and Android platforms.
+
+    # feature item loop
+    - name: Desktop App
+      icon: ti-desktop # themify icon pack : https://themify.me/themify-icons
+      content: Would your internal processes benefit from tailor-made software that would facilitate their implementation, monitoring and auditing? We can help you by supporting you in defining and implementing the requirements in a custom, simple and elegant desktop application.
+
+    # feature item loop
+    - name: Graphic Design
+      icon: ti-palette # themify icon pack : https://themify.me/themify-icons
+      content: Do you want to create the digital identity of your brand or your company or rather simply refresh it? No worries, at 6C Solutions our graphic designers will listen to you and craft the image you would like to project to your customers and will manage to bring it to life in all the needed mediums (logos, user interface, animations, etc...).
+
+      # feature item loop
+    - name: Optimization
+      icon: ti-bolt # themify icon pack : https://themify.me/themify-icons
+      content: Do you already have the mobile app, website or software you need but the growing success of your business is making it an irritant for you, your employees or your customers? Once again, 6C Solutions can assist you by operating software and hardware optimizations in a non-intrusive manner.
+
+    # feature item loop
+    - name: Crypto & Blockchain
+      icon: ti-infinite # themify icon pack : https://themify.me/themify-icons
+      content: Do you want to allow your customers to pay with cryptocurrencies, build loyalty among them rewarding them with tokens or simply because you embrace the revolutionary ideas of freedom, decentralization and anonymity behind such an innovation? At 6C solutions, we will put our knowledge and experience at your service.
