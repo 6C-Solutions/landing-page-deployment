@@ -8,7 +8,7 @@ skill:
   skill_item :
     # skill item loop
     - name :  Javascript / Typescript
-      percent : 970%
+      percent : 97%
 
     # skill item loop
     - name :  PHP

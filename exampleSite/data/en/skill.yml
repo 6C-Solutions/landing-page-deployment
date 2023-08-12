@@ -2,25 +2,37 @@
 skill:
   enable : true
   title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/company-growth.webp
+  subtitle : "Backed by nearly 20 years of experience"
+  content : "We have been able to develop extensive expertise with the following programming languages, frameworks and service providers:"
+  image : images/about/skills.png
   skill_item :
     # skill item loop
-    - name :  Business Development
-      percent : 90%
-      
+    - name :  Javascript / Typescript
+      percent : 97%
+
     # skill item loop
-    - name :  Analysis
-      percent : 70%
-      
+    - name :  PHP
+      percent : 96%
+
     # skill item loop
-    - name :  Design
-      percent : 80%
-      
-    - name :  IOS Development
+    - name :  HTML / CSS
       percent : 95%
-      
+
+    - name :  Python
+      percent : 95%
+
     # skill item loop
-    - name :  Android Development
-      percent : 75%
+    - name :  Kotlin
+      percent : 90%
+
+    - name: C++
+      percent: 90%
+
+    - name: C#
+      percent: 90%
+
+    - name: Swift
+      percent: 90%
+
+    - name: SQL
+      percent: 90%
