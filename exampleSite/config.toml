@@ -42,62 +42,66 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
+name = "About"
 url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
-url = "#services"
+name = "Features"
+url = "#feature"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
+name = "Services"
+url = "#services"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "team"
-url = "#team"
+name = "Skills"
+url = "#skills"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
+name = "Portfolio"
+url = "#portfolio"
 weight = 5
 
 [[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
+name = "Team"
+url = "#team"
 weight = 6
 
+#[[Languages.fr.menu.main]]
+#name = "tarification"
+#url = "#pricing"
+#weight = 5
+
+# [[Languages.fr.menu.main]]
+# name = "Blog"
+# url = "#blog"
+# weight = 7
+
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Contact"
 url = "#contact"
 weight = 7
-
-
-[[Languages.en.menu.main]]
-name = "Dropdown"
-weight = 7
-hasChildren = true
-
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 1"
-url = "#"
-weight = 1
-
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 2"
-url = "#"
-weight = 2
-
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+#
+# [[Languages.en.menu.main]]
+# name = "Dropdown"
+# weight = 7
+# hasChildren = true
+#
+# [[Languages.en.menu.main]]
+# parent = "Dropdown"
+# name = "Dropdown 1"
+# url = "#"
+# weight = 1
+#
+# [[Languages.en.menu.main]]
+# parent = "Dropdown"
+# name = "Dropdown 2"
+# url = "#"
+# weight = 2
 
 
 ################### French Navigation ########################
@@ -203,7 +207,7 @@ link = "#"
 ################################ France Language ########################
 [Languages.fr]
 languageName = "Fr"
-languageCode = "fr-fr"
+languageCode = "fr-ca"
 contentDir = "content/french"
 weight = 1
 home = "Accueil"
@@ -216,4 +220,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by 6C Solutions & [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2023 Designed by [Themefisher](https://themefisher.com) & Developed by 6C Solutions & [Gethugothemes](https://gethugothemes.com)"

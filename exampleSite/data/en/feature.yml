@@ -1,27 +1,35 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image: images/about/developer-working.jpeg
-  image_webp: images/about/developer-working.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  image : images/about/developer-working.jpeg
+  image_webp : images/about/developer-working.webp
+  title : We will meeting all your needs in I.T.
+  content : "Whether you want to build the digital facade of your company or even update your existing solutions, at 6C Solutions we can put our know-how to your service."
   feature_item :
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    # feature item loop
+    - title: eCommerce
+      icon: ti-money # themify icon pack : https://themify.me/themify-icons
+      content: Give your customers a digital and user-friendly experience by allowing them to explore your offer from anywhere.
+
+    - title: Cybersecurity
+      icon: ti-lock # themify icon pack : https://themify.me/themify-icons
+      content: Avoid any loss or compromise of your users precious data by securing your IT solutions.
+
+    # feature item loop
+    - title: Social Medias
+      icon: ti-link # themify icon pack : https://themify.me/themify-icons
+      content: Join all generations of consumers by creating a special place for yourself in the digital public square thanks to our mastery of the workings of TikTok, Instagram and others.
+
+    # feature item loop
+    - title: Email, SMS & Chat
+      icon: ti-comments # themify icon pack : https://themify.me/themify-icons
+      content: Communicate with your customers using Artificial Intelligence and conversational agent through WhatsApp, Messenger, etc whether to answer their questions, announce promotions or simply to keep them informed.
 
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title: Performance
+      icon: ti-dashboard # themify icon pack : https://themify.me/themify-icons
+      content: Impress your users with high-performance I.T. solutions that adapt to their context of use in order to offer an optimal experience at all times.
 
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title: Beauty
+      icon: ti-eye # themify icon pack : https://themify.me/themify-icons
+      content: Mark the imagination by presenting a website or mobile application of unparalleled beauty, distancing you considerably from the competition.

@@ -4,7 +4,7 @@ feature:
   image : images/about/developer-working.jpeg
   image_webp : images/about/developer-working.webp
   title : Nous répondrons à tous vos besoins I.T.
-  content : "Que vous vouliez bâtir la facade numérique de votre entreprise ou encore mettre à jour vos solutions existantes, chez 6C Solutions nous pourrons mettre notre savoir faire à votre feature."
+  content : "Que vous vouliez bâtir la facade numérique de votre entreprise ou encore mettre à jour vos solutions existantes, chez 6C Solutions nous pourrons mettre notre savoir faire à votre service."
   feature_item :
     # feature item loop
     - title: eCommerce
