@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
 title = "6C Solutions"
-theme = "landing-page"
+theme = "landing-page-deployment"
 # post pagination
 paginate = "6"
 # post excerpt
@@ -136,15 +136,15 @@ weight = 6
 #url = "#pricing"
 #weight = 5
 
-[[Languages.fr.menu.main]]
-name = "Blog"
-url = "#blog"
-weight = 7
+# [[Languages.fr.menu.main]]
+# name = "Blog"
+# url = "#blog"
+# weight = 7
 
 [[Languages.fr.menu.main]]
 name = "Contact"
 url = "#contact"
-weight = 8
+weight = 7
 
 ############################# Default Parameters ##########################
 [params]

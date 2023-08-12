@@ -650,6 +650,7 @@ a:hover {
 .call-to-action p {
   font-size: 16px;
   color: #666;
+  font-weight: bolder;!important;
 }
 
 .call-to-action .btn-main {

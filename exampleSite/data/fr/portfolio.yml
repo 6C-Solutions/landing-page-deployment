@@ -37,7 +37,7 @@ portfolio:
       link : "https://play.google.com/store/apps/details?id=com.microdrones.cockpit&pli=1"
 
     # portfolio item loop
-    - name: Security & Automation
+    - name: Cybersecurité & Déploiement
       image: images/portfolio/portfolio-5.jpg
       image_webp: images/portfolio/portfolio-5.webp
       categories: [ "cybersecurity", "automatisation" ]
