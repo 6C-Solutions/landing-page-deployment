@@ -4,7 +4,7 @@ team:
   title: Notre Équipe
   team_member:
     - name: Hamady Cissé, Ing. M.Sc.
-#      image_webp: images/team/team-1.webp
+      image_webp: images/team/team-1.webp
       image: images/team/team-1.jpg
       designation: PDG/Fondateur
       content: Gradué de l’École Polytechnique de Montréal en 2007 avec un Master en Génie Aérospatial. Ingénieur membre de l'Ordre des Ingénieurs du Québec.
@@ -14,7 +14,7 @@ team:
 #        - icon: ti-linkedin
 #          link: https://www.linkedin.com/in/hamadycisse
     - name: Joyce Gloriam
-      #      image_webp: images/team/team-5.webp
+      image_webp: images/team/team-2.webp
       image: images/team/team-2.jpg
       designation: Communicatrice en Chef
       content: Juriste de formation. Graduée du collège Lucien Pagé à Montréal au Canada. Responsable de la communication numérique sur les médias sociaux et les moteurs de recherche.
@@ -22,7 +22,7 @@ team:
         - icon: ti-facebook
           link: "#"
     - name: Moché Jr. Caryle Medeho
-#      image_webp: images/team/team-3.webp
+      image_webp: images/team/team-3.webp
       image: images/team/team-3.jpg
       designation: Programmeur en Chef
       content: Développeur Full Stack. Détients plusieurs certifications. Gradué de l’Université du Québec à Montréal en Génie Logiciel. Basé au Canada.
@@ -30,7 +30,7 @@ team:
 #        - icon: ti-linkedin
 #          link: https://www.linkedin.com/in/moch%C3%A9-junior-caryle-medeho-3a91271b3/
     - name: El Hadj H. Traoré
-#      image_webp: images/team/team-4.webp
+      image_webp: images/team/team-4.webp
       image: images/team/team-4.jpg
       designation: Gestionnaire en Chef
       content: Ancien administrateur de base données. Gradué de l’Institut Universitaire de Gestion de Bamako et de l’Université Cheick Anta Diop de Dakar au Sénégal. Basé au Mali.
@@ -38,7 +38,7 @@ team:
 #        - icon: ti-linkedin
 #          link: https://www.linkedin.com/in/hamady-traor%C3%A9-0b2a8670/
     - name: Rohith Gaddam
-      #      image_webp: images/team/team-4.webp
+      image_webp: images/team/team-5.webp
       image: images/team/team-5.jpg
       designation: Analyste Qualité en Chef
       content: Basé au Canada. Certifié ISTQB. Responsable de l’assurance qualité de toutes les solutions I.T. produites pas les équipe de 6C Solutions.
