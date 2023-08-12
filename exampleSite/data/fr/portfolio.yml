@@ -29,7 +29,7 @@ portfolio:
       link : "https://t.me/rskp2pbot_testnet"
 
     # portfolio item loop
-    - name : Drone Control Station
+    - name : Station de Contrôle de Drone
       image : images/portfolio/portfolio-4.jpg
       image_webp : images/portfolio/portfolio-4.webp
       categories : ["mobile"]
@@ -40,12 +40,12 @@ portfolio:
     - name: Cybersecurité & Déploiement
       image: images/portfolio/portfolio-5.jpg
       image_webp: images/portfolio/portfolio-5.webp
-      categories: [ "cybersecurity", "automatisation" ]
+      categories: [ "cybersecurité", "automatisation" ]
       content: Audit de la sécurité des applications mobile et web pour la consultation en ligne.
       link: "https://dokpam.ca"
 
     # portfolio item loop
-    - name: Design & Web Site
+    - name: Design & Site Web
       image: images/portfolio/portfolio-6.jpg
       image_webp: images/portfolio/portfolio-6.webp
       categories: [ "web", "design" ]

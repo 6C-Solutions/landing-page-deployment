@@ -1,76 +1,53 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Recent Works
   portfolio_item :
+
     # portfolio item loop
-    - name : Tag Design
+    - name : Point Clouds Management
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
-      
+      categories : ["web"]
+      content : Upload, download, share and visualize voluminous point cloud files.
+      link : "https://cloud.lp360.com"
+
     # portfolio item loop
-    - name : Sound system
+    - name : Software Licenses Store
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
-      
+      categories : ["web"]
+      content : Buy annual subscriptions to expensive software protected with secured licenses.
+      link : "https://store.lp360.com"
+
     # portfolio item loop
-    - name : Clock Product
+    - name : Crypto Exchange ChatBot
       image : images/portfolio/portfolio-3.jpg
       image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
+      categories : ["cryptocurrency", "chatbot"]
+      content : Telegram chatbot for peer-to-peer exchange of RBTC.
+      link : "https://t.me/rskp2pbot_testnet"
+
     # portfolio item loop
-    - name : Bottol Label
+    - name : Drone Control Station
       image : images/portfolio/portfolio-4.jpg
       image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
+      categories : ["mobile"]
+      content : Android app for flying drones, planning automated flights and retrieving data.
+      link : "https://play.google.com/store/apps/details?id=com.microdrones.cockpit&pli=1"
+
     # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
+    - name: Cybersecurity & Deployment
+      image: images/portfolio/portfolio-5.jpg
+      image_webp: images/portfolio/portfolio-5.webp
+      categories: [ "cybersecurity", "automating" ]
+      content: Audit of the security of an online health consultation solution and automation of its deployment.
+      link: "https://dokpam.ca"
+
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name: Design & Web Site
+      image: images/portfolio/portfolio-6.jpg
+      image_webp: images/portfolio/portfolio-6.webp
+      categories: [ "web", "design" ]
+      content: Design and realization of the web site of aerial videography service provider.
+      link: "https://upkam.com"
