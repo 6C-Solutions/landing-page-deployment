@@ -1,26 +1,19 @@
 ################################# Testimonial #########################
 testimonial:
-  enable : false
+  enable : true
   bg_image : images/backgrounds/bg-testimonial.jpg
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Hugo Laforest
+      image : images/client/client-3.jpg
+      image_webp : images/client/client-3.webp
+      date : May 25, 2012
+      content : Hamady est un ingénieur de talent qui a su apprendre plusieurs systèmes rapidement et qui s'adapte bien dans des environnements de travail exigent. Il est très orienté vers le client et travaille très fort pour générer de la valeur pour lui. J'ai beaucoup apprécié travailler avec Hamady.
 
     # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-
-    # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Francois Guertin
+      image : images/client/client-4.jpg
+      image_webp : images/client/client-4.webp
+      date : Novembre 7, 2012
+      content : Hamady est très autonome, fiable et aime prendre des initiatives qui s'avèrent souvent gagnantes. Il travaille fort et est fortement apprécié des autres membres de l'équipe. Hamady est un atout certain pour une compagnie.

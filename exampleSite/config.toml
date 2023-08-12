@@ -76,9 +76,9 @@ weight = 6
 #url = "#pricing"
 #weight = 5
 
-# [[Languages.fr.menu.main]]
-# name = "Blog"
-# url = "#blog"
+# [[Languages.en.menu.main]]
+# name = "Testim"
+# url = "#testimonial"
 # weight = 7
 
 [[Languages.en.menu.main]]

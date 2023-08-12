@@ -1,26 +1,26 @@
 ################################# Testimonial #########################
 testimonial:
-  enable : false
+  enable : true
   bg_image : images/backgrounds/bg-testimonial.jpg
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
+    - name : Christophe Courtoy
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : February 27, 2012
+      content : Hamady is a truly dedicated person and is not afraid about any challenge. I was please to work with him.
 
     # testimonial item loop
-    - name : Mark Dinn
+    - name : Scott Casselman, Eng.
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : March 1st, 2012
+      content : Hamady Cisse is an intrepid coder dedicated to developing reliable and efficient software. If there is a bug, a new release with a fix is right around the corner. He is calm, patient and understanding of the needs of the client. Hamady always ensured that the quality of the software that he developed was up to standard. It was a pleasure to work alongside him!
 
     # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Martin Goudreau
+      image : images/client/client-5.jpg
+      image_webp : images/client/client-5.webp
+      date : April 10, 2013
+      content : I had the pleasure of working with Hamady during his short yet exciting tenure at nventive. In terms of professionalism, determination and work ethics, Hamady certainly ranks among the best. A perfect example of "doing what he says, and saying what he does", good communication was also one of the aspects I always appreciated working with Hamady. I hope we will have the chance to work together again!
