@@ -4,7 +4,7 @@ banner:
   bg_image_webp: "images/backgrounds/software-development.webp"
   bg_image: "images/backgrounds/software-development.jpeg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "20 années d’expérience à votre service"
+  title : "20 ans d’expérience en T.I. à votre service"
   content : "Que ce soit pour la réalisation de nouvelles solutions TI qui répondent sur mesure à vos besoins ou pour la mise à niveau d’applications et services existants, notre équipe de professionels chevronnés et créatifs saura surpasser vos attentes."
   button:
     enable : true
