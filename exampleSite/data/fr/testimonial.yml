@@ -9,7 +9,7 @@ testimonial:
       image : images/client/client-3.jpg
       image_webp : images/client/client-3.webp
       date : May 25, 2012
-      content : Hamady est un ingénieur de talent qui a su apprendre plusieurs systèmes rapidement et qui s'adapte bien dans des environnements de travail exigent. Il est très orienté vers le client et travaille très fort pour générer de la valeur pour lui. J'ai beaucoup apprécié travailler avec Hamady.
+      content : Hamady est un ingénieur de talent qui a su apprendre plusieurs systèmes rapidement et qui s'adapte bien dans des environnements de travail exigents. Il est très orienté vers le client et travaille très fort pour générer de la valeur pour lui. J'ai beaucoup apprécié travailler avec Hamady.
 
     # testimonial item loop
     - name : Francois Guertin
