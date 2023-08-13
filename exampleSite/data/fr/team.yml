@@ -17,7 +17,7 @@ team:
       image_webp: images/team/team-2.webp
       image: images/team/team-2.jpg
       designation: Communicatrice en Chef
-      content: Juriste de formation. Graduée du collège Lucien Pagé à Montréal au Canada. Responsable de la communication numérique sur les médias sociaux et les moteurs de recherche.
+      content: Juriste de formation. Graduée de Lucien Pagé à Montréal au Canada. Responsable de la communication numérique sur les médias sociaux et les moteurs de recherche.
       social:
         - icon: ti-facebook
           link: "#"
