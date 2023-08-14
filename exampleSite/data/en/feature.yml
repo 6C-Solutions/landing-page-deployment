@@ -1,7 +1,7 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/developer-working.jpeg
+  image : images/about/developer-working.jpg
   image_webp : images/about/developer-working.webp
   title : We will meeting all your needs in I.T.
   content : "Whether you want to build the digital facade of your company or even update your existing solutions, at 6C Solutions we can put our know-how to your service."

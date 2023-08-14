@@ -24,3 +24,17 @@ testimonial:
       image_webp : images/client/client-5.webp
       date : April 10, 2013
       content : I had the pleasure of working with Hamady during his short yet exciting tenure at nventive. In terms of professionalism, determination and work ethics, Hamady certainly ranks among the best. A perfect example of "doing what he says, and saying what he does", good communication was also one of the aspects I always appreciated working with Hamady. I hope we will have the chance to work together again!
+
+        # testimonial item loop
+    - name: Yoel Leonardo
+      image: images/client/client-6.jpg
+      image_webp: images/client/client-6.webp
+      date: August 17, 2023
+      content:
+        I have had the pleasure of working closely with Hamady, thus far I have been impressed by the quality of his work and his dedication to excellence, I would say that he is one of the best program directors I have ever had the pleasure to work with.
+
+        One of Hamady's most impressive qualities is his dedication and commitment to ensuring that projects achieve their goals and meet established deadlines, thoroughly analyzing each requirement and thus achieving the best results.
+
+        Hamady as a person is very focused on following ethics, always managing to carry out everything proposed in a way that positively impacts everyone involved without neglecting the opinions of others.
+
+        I understand that the team that works with Hamady Cisse will always be very lucky to have him and I recommend him 100%.
